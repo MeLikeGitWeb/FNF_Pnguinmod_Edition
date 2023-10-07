@@ -1,1 +1,1 @@
-This is going to be just a Penguinmod FNF port project for now because I want to and aslo this project was created by TheShovel
+This is going to be just a Penguinmod FNF port project for now because I want to and aslo this project was created by TheShovel. And if you see PlaceHolder or Hold it mean I don't know how to use github since it my first time using github
